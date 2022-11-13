@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am on <a rel="me" href="https://infosec.exchange/@thomdabrowski">Mastodon</a>
+I am on <a rel="me" href="https://hachyderm.io/@thomdabrowski">Mastodon</a>
 
 <!--
 **thomdabrowski/thomdabrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
