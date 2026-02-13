@@ -1,14 +1,14 @@
-# Hello 👋
+## Hello 👋
 
-## What I do
+### What I do
 - Build and automate cloud infrastructure
 - Keep Kubernetes clusters fed, healthy, and not on fire
 - Terraform things responsibly (yes, I do plan before apply)
 - Ship tools in Go or Java/Spring when needed
 
-## Toolbox
+### Toolbox
 AWS · Kubernetes · Terraform · Go · Java · Spring
 
-## Find me
+### Find me
 - https://thomdabrowski.pl
 - https://www.linkedin.com/in/thomdabrowski
